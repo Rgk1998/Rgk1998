@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rgk1998
-- 👀 I’m interested in Maths, statistics
+- 👀 I’m interested in Mathematics, statistics
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me 
